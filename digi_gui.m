@@ -43,3 +43,4 @@ txt = uicontrol('Style','text','Position',[420 170 150 40],...
         txt.String = '';
     end
 end
+digi_gui()
